@@ -6,7 +6,12 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7216244c-7208-4a7f-b154-2092b4ad2ff2" name="Default Changelist" comment="" />
+    <list default="true" id="7216244c-7208-4a7f-b154-2092b4ad2ff2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/restApiTest_war_exploded/WEB-INF/classes/com/hkr/helloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/restApiTest_war_exploded/WEB-INF/classes/com/hkr/helloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hkr/helloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hkr/helloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hkr/helloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hkr/helloWorld.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +29,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -39,6 +47,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1rri0qPrBxFt8W40GvqB72dHJfs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -423,12 +432,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1619740388623</updated>
-      <workItem from="1619740393080" duration="11747000" />
+      <workItem from="1619740393080" duration="12385000" />
+      <workItem from="1619796815276" duration="2761000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/restApiTest$TomCat.ic" NAME="TomCat Coverage Results" MODIFIED="1619747492957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
